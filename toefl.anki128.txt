@@ -1,3 +1,4 @@
+quiz.properties	name=Toefl, Set 1<br />q_lang=en-US<br />a_lang=en-US<br />fontsize_q=40<br />fontsize_a=30<br />skipaudiomode=3
 bring about (phrasal verb)	to cause to happen; produce an effect.<br /><br /> The creation of a national railroad system brought about big changes in the economy of the Midwest and west. <br />Related: cause, lead to, result in
 acute (adjective)	having the characteristics of being very serious or intense; reaching the point of crisis.<br /><br /> Natural disasters often produce acute needs for medicine, food and water. <br />Related: critical, crucial, desperate
 apparent (adjective)	easily seen or perceived; easily understood.<br /><br /> The apparent failure of dinosaurs to adjust to changes in the weather caused their extinction. <br />Related: clear–cut, evident, obvious
