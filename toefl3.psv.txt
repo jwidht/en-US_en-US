@@ -1,11 +1,11 @@
 quiz.properties|name=Toefl, Set 3~~q_lang=en-US~~a_lang=en-US~~fontsize_q=40~~fontsize_a=30~~skipaudiomode=3
-ABANDON|to give up completely.~~abandoned the sinking ship.
-ABASH|To lose self-confidence; to confuse, put to shame.~~~~abashed before the assembled dignitaries..~~~~Synonyms: fluster, disconcert, discomfit, discompose.~~Antonym: (adj.) self-possessed
-ABDICATE|To give up claim to.~~~~abdicated the throne.~~~~Synonyms: renounce, abandon, relinquish
-ABET|To encourage -or support.~~treacherously abetted the enemy..~~~~Synonyms: spur, incite.~~Antonym: deter
-ABRIDGE|To shorten.~~~~abridged his lengthy speech..~~~~Synonyms: curtail, diminish, retrench.~~Anthonyms: protract, elongate, amplify
-ABROGATE|To abolish or render void.~~~~a treaty abrogated by mutual consent..~~~~Synonyms: annul, nullify, rescind, void
-ABSTEMIOUS|Moderate in the use of food or drink.~~~~abstemious in his habits..~~~~Synonym: temperate
+ABANDON|to give up completely.~~Abandoned the sinking ship.
+ABASH|To lose self-confidence; to confuse, put to shame.~~~~Abashed before the assembled dignitaries..~~~~Synonyms: fluster, disconcert, discomfit, discompose.~~Antonym: (adj.) self-possessed
+ABDICATE|To give up claim to.~~~~Abdicated the throne.~~~~Synonyms: renounce, abandon, relinquish
+ABET|To encourage -or support.~~Treacherously abetted the enemy..~~~~Synonyms: spur, incite.~~Antonym: deter
+ABRIDGE|To shorten.~~~~Abridged his lengthy speech..~~~~Synonyms: curtail, diminish, retrench.~~Anthonyms: protract, elongate, amplify
+ABROGATE|To abolish or render void.~~~~A treaty abrogated by mutual consent..~~~~Synonyms: annul, nullify, rescind, void
+ABSTEMIOUS|Moderate in the use of food or drink.~~~~Abstemious in his habits..~~~~Synonym: temperate
 ACADEMIC|Pertaining to school; theoretical academic interests; an academic discussion, with no practical implications..~~~~Synonym: scholastic
 ACCEDE|To agree to.~~~~-accede to a request..~~~~Synonym: assent.~~Antonym: demur
 ACCELERATE|To quicken, speed tip.~~~~took an accelerated course in order to graduate early..~~~~Synonym: expedite (adj. expeditious).~~Antonym: retard
@@ -38,7 +38,7 @@ ANTHOLOGY|A collection of choice literary works .~~~~an anthology of modern poet
 ANTITHESIS.~~(adj.: ANTITHETICAL)|Contrast; the direct opposite.~~~~His selfish attitude seemed to me the antithesis o patriotism.
 APATHY.~~(adj.: APATHETIC)|Lack of feeling, emotion, or interest.~~~~attributed his failure to apathy, rather than lack of ability..~~~~Synonyms: torpor, lethargy, sluggishness, listlessness, languor, lassitude, dispassion; (verb) languish.~~Antonyms:zeal, animation
 APPREHENSIVE.~~(verb: APPREHEND)|Fearful.~~~~Being unprepared, John is apprehensive of the examination.
-APPRISE|To inform.~~~~apprisedhis lieutenants of the new situation.
+APPRISE|To inform.~~~~apprised his lieutenants of the new situation.
 APPROBATION|Approval; praise.~~~~-a plan that met with hearty approbation..~~~~Synonyms:sanction, commendation.~~~~Synonyms:sanction, commendation.~~Antonym:disapprobation
 APT.~~(noun: APTITUDE, APTNESS)|(1) Likely; inclined or disposed apt to succeed. .~~Synonym: prone.~~~~(2) Fit, suitable an apt remark..~~Synonyms: appropriate, felicitous.~~~~(3) Skillful, expert apt at woodcarving..~~Synonyms: deft, dextrous, adept. Antonym: inept
 ARBITER|A person who has authority to decide matters in dispute.~~~~a fair decision rendered by the arbiter..~~~~Synonyms: mediator, arbitrator
@@ -47,14 +47,14 @@ ARID|Dry; barren.~~~~the arid desert land..~~~~Synonyms. jejune, parched.~~Anton
 ARISTOCRACY|Government by the best people; a privileged class .~~~~special privileges enjoyed by the aristocracy..~~~~Synonym: oligarchy.~~Antonym: democracy
 ARMISTICE|A temporary suspension of hostilities..~~~~The armistice halted the war..~~~~Synonym: truce
 ARTFUL|Sly; crafty .~~~~attained his mean objective by artful measures..~~~~Synonyms: cunning, wily, adroit, ingenious, guileful.~~Antonyms: guileless, ingenuous, artless
-ARTICULATE (verb)|To speak clearly or distinctly.~~~~articulated slowly so that he could not be misunderstood..~~~~(adj.): Capable of speech; distinct, clear.~~~~an articulate man, always ready to give his views.
+ARTICULATE (verb)|To speak clearly or distinctly.~~~~articulated slowly so that he could not be misunderstood..~~~~(adj.) Capable of speech; distinct, clear.~~~~an articulate man, always ready to give his views.
 ASCETIC|Rigorously self-denying .~~~~pursued the ascetic life of a monk..~~~~Synonyms: austere, abstinent.~~Antonyms: wanton, self-indulgent
 ASKANCE|With distrust .~~~~looked askance at the forged signature.
 ASSEVERATE|To declare positively; to confirm .~~~~asseverated his views with conviction..~~~~Synonyms:assert, avouch, aver, avow, allege.~~Antonyms:gainsay, controvert, recant, rescind, abjure, disavow
 ASSIDUOUS|Industrious.~~~~an assiduous worker, toiling long hours..~~~~Synonyms:sedulous, attentive, diligent, indefatigable.~~Antonyms:indolent, slothful
 ASYLUM|A place offering shelter and retreat.~~~~found asylum from persecution..~~~~Synonyms:sanctuary, refuge
 ATHEIST|One who denies that God exists .~~~~The atheist declared, "There is no God.".~~~~Synonyms:infidel, agnostic, skeptic
-ATTRIBUTE|(verb): Assign.~~~~-attributed his success to bard work..~~~~Synonym: ascribe.~~~~(noun): An inherent quality.~~~~-Generosity was his outstanding attribute.
+ATTRIBUTE|(verb) Assign.~~~~-attributed his success to bard work..~~~~Synonym: ascribe.~~~~(noun) An inherent quality.~~~~-Generosity was his outstanding attribute.
 AUGMENT|To increase or enlarge .~~~~an army augmented by numerous enlistments..~~~~Synonyms: enhance, amplify Antonyms: abate, curtail
 AUSPICIOUS|Indicating a happy outcome.~~~~The prospect for this project appears auspicious..~~~~Synonyms:propitious, fortunate.~~Antonyms:ominous, foreboding
 AUTHENTIC|Genuine.~~~~-proved to be an authentic document..~~~~Synonyms:veritable, bona fide.~~Antonyms;apocryphal, counterfeit, spurious, bogus
@@ -75,8 +75,8 @@ BIASED|Prejudiced.~~~~misled by a biased point of view..~~~~Synonyms:bigoted, ar
 BIBLIOPHILE|A lover of books.~~~~The bibliophile fingered the old book fondly..~~~~Antonym: bibliophobe
 BIZARRE|Queer; unusual in appearance.~~~~bizarre clothes, outlandish in the extreme..~~~~Synonyms:odd, fantastic, grotesque, eccentric
 BLAND|Gentle; polite; agreeable.~~~~a bland diet, without irritating foods..~~~~Synonyms: mild, suave (affable or persuasive in manner), soothing, non-irritating.~~Antonyms: piquant, tart, racy, caustic, acrid, pungent
-BLANDISHMENT|A flattering speech or act.~~~~attracted people by his blandishments.
-BLEMISH|(verb): To scar or spoil.~~~~Bad associates blemished his character.~~~~(noun): A disfigurement, defect.~~~~a character without a blemish.
+BLANDISHMENT|A flattering speech or act.~~~~Attracted people by his blandishments.
+BLEMISH|(verb) To scar or spoil.~~~~Bad associates blemished his character.~~~~(noun) A disfigurement, defect.~~~~a character without a blemish.
 BLIGHT|To ruin or decay.~~~~the rotting wheat-, blighted by incessant rain..~~~~Synonyms:wither, blast
 BLITHE|Gay and light-hearted in spirit or mood.~~~~spread cheer with her blithe spirit..~~~~Synonyms: jocund, merry, joyous.~~Antonyms: dejected, forlorn, abject
 BOG|A swamp.~~~~sank into the spongy bog..~~~~Synonyms: morass, fen, quagmire, mire
@@ -121,14 +121,14 @@ CONCEDE|To yield; to admit as true; to grant.~~~~conceded victory to a superior 
 CONDIGN|Well-deserved (applied chiefly to punishment).~~~~received condign punishment for his crime.
 CONDOLE.~~(noun: CONDOLENCE)|To express sympathy with another in sorrow, pain, or misfortune.~~~~condoled with each other in their grief..~~~~Synonyms: commiserate, show compassion, solace
 CONDONE|To forgive or overlook (an offense).~~~~condoned the deed, in view of the offender's age..~~~~Synonyms: extenuate, palliate, mitigate, gloss
-CONFEDERATE.~~(noun)(adj.)|(noun): A person allied with others for a special purpose (frequently a bad one).~~joined his confederate in secret enterprise..~~~~Synonyms: collaborator, accomplice.~~~~(adj.): United or allied in a conspiracy.~~two confederate groups hurrying to their rendezvous.
+CONFEDERATE.~~(noun)(adj.)|(noun) A person allied with others for a special purpose (frequently a bad one).~~joined his confederate in secret enterprise..~~~~Synonyms: collaborator, accomplice.~~~~(adj.) United or allied in a conspiracy.~~two confederate groups hurrying to their rendezvous.
 CONGENIAL.~~(2 answer)|(1) Possessing similar interests and tastes; able to get on well with others.~~congenial people with similar backgrounds..~~Synonym: compatible.~~~~(2) Agreeable.~~congenial to his taste.
 CONJECTURE|To guess.~~~~Without facts, we can only conjecture about his guilt..~~~~Synonyms: surmise, presume
 CONSECRATE.~~(2 answer)|(1) To set apart as sacred.~~consecrate the battlefield with a monument to the dead heroes. .~~~~Synonyms: hallow, sanctify Antonym: desecrate.~~~~(2) To devote or dedicate to some aim.~~consecrated his life to teaching.
 CONSENSUS|General agreement .~~~~The consensus of the committee was that no action should be taken..~~~~Synonym: accord
 CONSTERNATION|Amazement; lack of courage caused by fearful prospect.~~~~The threat struck deep consternation into John..~~~~Synonyms: dismay, bewilderment
 CONSTRUE.~~(noun: CONSTRUCTION)|To interpret, explain the sense of, or analyze.~~~~construed the statement to his own advantage.
-CONSUMMATE.~~(adj.)(verb)|(adj.): Perfect or highly accomplished.~~achieved with consummate skill..~~~~Antonyms: botched. bungled, inept.~~~~(verb): To complete, bring to perfection.~~consummated the deal without delay.
+CONSUMMATE.~~(adj.)(verb)|(adj.) Perfect or highly accomplished.~~achieved with consummate skill..~~~~Antonyms: botched. bungled, inept.~~~~(verb) To complete, bring to perfection.~~consummated the deal without delay.
 CONTEMPTUOUS|Expressive of contempt (an emotion involving anger and disgust).~~~~cast a contemptuous look at his subordinate..~~~~Synonyms: supercilious, scornful, disdainful, contumelious
 CONVIVIAL|Festive; gay.~~~~a convivial party..~~~~Synonyms: jovial, jocund, mirthful.~~Antonyms: lugubrious, dolorous, mirthless
 COPIOUS|Plentiful.~~~~shed copious tears at the bad news..~~~~Synonyms. profuse, bountiful, abundant.~~Antonyms: meager, scant
@@ -199,7 +199,7 @@ ECCLESIASTIC.~~(adj.)(noun)|(adj.): Pertaining to the clergy or the church.~~rec
 EDICT|A public command or proclamation issued by an authority.~~~~proclaimed by royal edict..~~~~Synonym: decree
 EDIFY|To instruct or uplift, particularly in morals or religion.~~~~a story that edifiesthe reader, as well as entertains him
 EFFETE|No longer productive; hence, lacking in or, worn out.~~~~powerful in ancient days, now an effete civilization.
-EGOTISTIC|Conceited.~~~~an egotisticperson, flourishing on praise..~~~~Synonyms: egocentric, vain.~~Antonym: altruistic
+EGOTISTIC|Conceited.~~~~an egotistic person, flourishing on praise..~~~~Synonyms: egocentric, vain.~~Antonym: altruistic
 EGREGIOUS|Outstandingly bad.~~~~an egregious mistake with serious implications.
 EJACULATE|To exclaim or utter suddenly.~~~~ejaculateda cry of horror.
 ELICIT|To draw out.~~~~elicitedno response from the audience..~~~~Synonyms: evoke, extract, extort
@@ -244,9 +244,9 @@ FATUOUS|Foolish; silly.~~~~a fatuous suggestion that struck us as stupid..~~~~Sy
 FEALTY|Faithfulness.~~~~The soldiers were pledged to fealty to their ruler..~~~~Synonyms: allegiance, constancy, fidelity.~~Antonyms: disloyalty; infidelity, treachery
 FEASIBLE|Workable.~~~~a feasible plan, proved practical by previous experience..~~~~Antonym: impracticable
 FEIGN.~~(noun: FEINT)|To pretend.~~~~He feigned to be angry, but we saw through his pretense..~~~~Synonyms: dissemble, sham, dissimulate, affect
-FELICITY.~~(adj.: FELICITOUS).~~(2 answer)|(1) A state of happiness.~~promoted felicity in the nation..~~~~Synonym: bliss.~~~~(2) A high ability.~~lie has a felicity of language, mastery of the well-chosen phrase.
+FELICITY.~~(adj.: FELICITOUS).~~(2 answers)|(1) A state of happiness.~~promoted felicity in the nation..~~~~Synonym: bliss.~~~~(2) A high ability.~~lie has a felicity of language, mastery of the well-chosen phrase.
 FERVID|Spirited; ardent.~~~~a fervid debater, full of emotion..~~~~Synonyms: perfervid, impassioned, zealous, fervent, vehement
-FESTOON.~~(noun)(verb)|(noun): A garland of flowers, leaves, etc. hung between two points.~~the room bright with festoons of Thanksgiving decorations..~~~~(verb): To hang with festoons.~~a room festooned with spring flowers.
+FESTOON.~~(noun)(verb)|(noun) A garland of flowers, leaves, etc. hung between two points.~~the room bright with festoons of Thanksgiving decorations..~~~~(verb) To hang with festoons.~~a room festooned with spring flowers.
 FETISH..~~(2 answer)|(1) Something that is believed to have magical powers.~~savages worshipping the fetish in a ceremonial dance..~~~~Synonym: charm, talisman, amulet.~~~~(2) An object of unreasoning devotion and worship.~~Photography, begun as a hobby, became a fetish.
 FIASCO|A ludicrous and complete failure.~~~~all his glorious plans ending in a fiasco..~~~~Synonym: debacle
 FICTITIOUS|Unreal; made-up.~~~~used a fictitious name to avoid being recognized..~~~~Synonym: fabricated
