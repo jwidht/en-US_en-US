@@ -208,11 +208,11 @@ EMISSARY|A person sent on an errand or mission.~~~~delegated his emissary to con
 ENGENDER|To cause, produce, or stir up.~~~~an act that engenderedgood will.
 ENNUI|Boredom; weariness of mind.~~~~fell asleep at the meeting from sheer ennui.
 ENSUE|To follow or result.~~~~Silence ensuedwhen the leader arose to speak.
-ENTREAT|To beg earnestly.~~~~entreatedthe judge to show mercy..~~~~Synonyms: solicit, supplicate, beseech, implore, importune;.~~~~(adj.) importunate, mendicant, suppliant
-EPHEMERAL|Very short-lived.~~~~an ephemeraljoy, lasting but a day..~~~~Synonyms: fleeting, transitory, transient, evanescent.~~Antonym: eternal
-EPICUREAN.~~(noun,adj.)|(noun) A person devoted to luxurious living and pleasure.~~~~an epicurean, seeking to enjoy every meal..~~~~(adj.) Pleasure-loving.~~~~His entire existence demonstrated his epicureantastes.
+ENTREAT|To beg earnestly.~~~~entreated the judge to show mercy..~~~~Synonyms: solicit, supplicate, beseech, implore, importune;.~~~~(adj.) importunate, mendicant, suppliant
+EPHEMERAL|Very short-lived.~~~~an ephemeral joy, lasting but a day..~~~~Synonyms: fleeting, transitory, transient, evanescent.~~Antonym: eternal
+EPICUREAN.~~(noun,adj.)|(noun) A person devoted to luxurious living and pleasure.~~~~an epicurean, seeking to enjoy every meal..~~~~(adj.) Pleasure-loving.~~~~His entire existence demonstrated his epicurean tastes.
 EPIGRAM|A brief pointed saying.~~~~a speech full of original epigrams..~~~~Synonyms: maxim proverb, adage
-EPITAPH|A tombstone inscription.~~~~an epitaphengraved on marble.
+EPITAPH|A tombstone inscription.~~~~an epitaph engraved on marble.
 EPITHET|A phrase that describes a quality, good or bad, in a person or thing.~~~~"Glaring" error is a commonly used epithet..~~~~Synonyms: characterization , appellation
 EQUANIMITY.~~(adj.: EQUABLE)|Evenness of temper or mind.~~~~suffered his cruel fate with equanimity..~~~~Synonyms: serenity, composure, imperturbability, aplomb
 ERR.~~(noun: ERRATUM)|To be mistaken or go astray.~~~~To err is human, to forgive divine..~~~~Synonyms: stray, blunder
