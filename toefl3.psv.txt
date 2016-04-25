@@ -217,7 +217,7 @@ EPITHET|A phrase that describes a quality, good or bad, in a person or thing.~~~
 EQUANIMITY.~~(adj.: EQUABLE)|Evenness of temper or mind.~~~~suffered his cruel fate with equanimity..~~~~Synonyms: serenity, composure, imperturbability, aplomb
 ERR.~~(noun: ERRATUM)|To be mistaken or go astray.~~~~To err is human, to forgive divine..~~~~Synonyms: stray, blunder
 ERRATIC|Irresponsible, eccentric.~~~~lacking a fixed purpose erratic behavior, reflecting his queer ideas.
-ERUDITE|Learned.~~~~an erudite person, an editor of many books..~~~~Synonyms: scholarly , knowing
+ERUDITE|Educated, knowledgeable.~~~~an erudite person, an editor of many books..~~~~Synonyms: scholarly , knowing
 ESOTERIC|Understood by only a select few.~~~~an esoteric subject, discussed only by scholars..~~~~Synonyms: abstruse, recondite
 EXCEPTIONABLE|Objectionable.~~~~exceptionable behavior, universally criticized..~~~~Synonyms: questionable, reprehensible, censurable.~~Antonym: laudable
 EXCULPATE|To free from blame.~~~~exculpated by a jury..~~~~Synonyms: vindicate, exonerate, absolve, acquit.~~Antonyms: arraign, indict, inculpate
@@ -247,7 +247,7 @@ FEIGN.~~(noun: FEINT)|To pretend.~~~~He feigned to be angry, but we saw through 
 FELICITY.~~(adj.: FELICITOUS).~~(2 answers)|(1) A state of happiness.~~promoted felicity in the nation..~~~~Synonym: bliss.~~~~(2) A high ability.~~lie has a felicity of language, mastery of the well-chosen phrase.
 FERVID|Spirited; ardent.~~~~a fervid debater, full of emotion..~~~~Synonyms: perfervid, impassioned, zealous, fervent, vehement
 FESTOON.~~(noun)(verb)|(noun) A garland of flowers, leaves, etc. hung between two points.~~the room bright with festoons of Thanksgiving decorations..~~~~(verb) To hang with festoons.~~a room festooned with spring flowers.
-FETISH..~~(2 answer)|(1) Something that is believed to have magical powers.~~savages worshipping the fetish in a ceremonial dance..~~~~Synonym: charm, talisman, amulet.~~~~(2) An object of unreasoning devotion and worship.~~Photography, begun as a hobby, became a fetish.
+FETISH..~~(2 answers)|(1) Something that is believed to have magical powers.~~savages worshipping the fetish in a ceremonial dance..~~~~Synonym: charm, talisman, amulet.~~~~(2) An object of unreasoning devotion and worship.~~Photography, begun as a hobby, became a fetish.
 FIASCO|A ludicrous and complete failure.~~~~all his glorious plans ending in a fiasco..~~~~Synonym: debacle
 FICTITIOUS|Unreal; made-up.~~~~used a fictitious name to avoid being recognized..~~~~Synonym: fabricated
 FLACCID|Lacking firmness.~~~~muscles grown flaccid after the illness..~~~~Synonyms: flabby, limp
